@@ -1,0 +1,182 @@
+[
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "continent": "Asia",
+    "population": 13960000
+  },
+  {
+    "city": "Delhi",
+    "country": "India",
+    "continent": "Asia",
+    "population": 11034555
+  },
+  {
+    "city": "Shanghai",
+    "country": "China",
+    "continent": "Asia",
+    "population": 24183300
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "continent": "Asia",
+    "population": 12442373
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "continent": "Asia",
+    "population": 21542000
+  },
+  {
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "continent": "Asia",
+    "population": 8906039
+  },
+  {
+    "city": "Karachi",
+    "country": "Pakistan",
+    "continent": "Asia",
+    "population": 14910352
+  },
+  {
+    "city": "Osaka",
+    "country": "Japan",
+    "continent": "Asia",
+    "population": 2691185
+  },
+  {
+    "city": "New York",
+    "country": "USA",
+    "continent": "America",
+    "population": 8336817
+  },
+  {
+    "city": "S\u00e3o Paulo",
+    "country": "Brazil",
+    "continent": "America",
+    "population": 12325232
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "continent": "America",
+    "population": 9209944
+  },
+  {
+    "city": "Los Angeles",
+    "country": "USA",
+    "continent": "America",
+    "population": 3979576
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "continent": "America",
+    "population": 3075646
+  },
+  {
+    "city": "Chicago",
+    "country": "USA",
+    "continent": "America",
+    "population": 2693976
+  },
+  {
+    "city": "Lagos",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "population": 14862111
+  },
+  {
+    "city": "Kinshasa",
+    "country": "DR Congo",
+    "continent": "Africa",
+    "population": 14342439
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "continent": "Africa",
+    "population": 10107125
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "continent": "Africa",
+    "population": 5635127
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "continent": "Africa",
+    "population": 4397073
+  },
+  {
+    "city": "Abuja",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "population": 3464123
+  },
+  {
+    "city": "London",
+    "country": "UK",
+    "continent": "Europe",
+    "population": 9002488
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "continent": "Europe",
+    "population": 12506468
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "continent": "Europe",
+    "population": 2161000
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "continent": "Europe",
+    "population": 3669491
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "continent": "Europe",
+    "population": 3305408
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "continent": "Europe",
+    "population": 2844552
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "continent": "Oceania",
+    "population": 5312000
+  },
+  {
+    "city": "Melbourne",
+    "country": "Australia",
+    "continent": "Oceania",
+    "population": 5078193
+  },
+  {
+    "city": "Brisbane",
+    "country": "Australia",
+    "continent": "Oceania",
+    "population": 2560700
+  },
+  {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "continent": "Oceania",
+    "population": 1695200
+  }
+]
